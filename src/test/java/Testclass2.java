@@ -19,7 +19,7 @@ public class Testclass2
 	}
 	public void method_04()
 	{
-		System.out.println("Test 4 new code")
+		System.out.println("Test 4 new code");//conflict
 		System.out.println(" i am test 4 method's copy");
 		System.out.println(" i am test 4 method");
 		
