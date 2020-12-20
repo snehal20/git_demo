@@ -21,6 +21,7 @@ public class Testclass2
 	{
 		System.out.println(" New message to print on screen");
 		System.out.println(" i am test 4 method");
+		System.out.println(" i am test 4 method's copy");
 		
 	}
 	public void method_05()
