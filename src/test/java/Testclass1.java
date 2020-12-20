@@ -27,8 +27,15 @@ public void test05()
 	System.out.println(" i am test 5 method");
 	
 }
-Public void test08()
+//<<<<<<< Branch3_Basics_opertations
+//Public void test08()
+//{
+//		Syste.out.println("i am test 8 method")
+//=======
+	
+public void newtest()
 {
-		Syste.out.println("i am test 8 method")
+	System.out.println("New branch created to practice operations")
+//>>>>>>> master
 }
 }
