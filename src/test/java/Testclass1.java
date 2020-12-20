@@ -27,4 +27,8 @@ public void test05()
 	System.out.println(" i am test 5 method");
 	
 }
+Public void test08()
+{
+		Syste.out.println("i am test 8 method")
+}
 }
