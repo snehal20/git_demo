@@ -19,6 +19,7 @@ public class Testclass2
 	}
 	public void method_04()
 	{
+		System.out.println(" New message to print on screen");
 		System.out.println(" i am test 4 method");
 		
 	}
