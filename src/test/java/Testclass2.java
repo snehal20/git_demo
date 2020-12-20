@@ -19,7 +19,12 @@ public class Testclass2
 	}
 	public void method_04()
 	{
-		System.out.println(" For Conflict Check");
+//<<<<<<< branch-_7_Conflict
+		//System.out.println(" For Conflict Check");
+//=======
+		//System.out.println("Test 4 new code");//conflict
+		System.out.println(" i am test 4 method's copy");
+//>>>>>>> master
 		System.out.println(" i am test 4 method");
 		
 		
