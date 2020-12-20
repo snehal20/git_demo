@@ -31,4 +31,10 @@ public void test05()
 	{
 	system.out.println(" i am test 6 method");
 	}
+	
+	public void test077()
+	{
+		system.out.println(" i am test 7 method");
+	}
+		
 }
