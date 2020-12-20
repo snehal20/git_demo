@@ -27,4 +27,9 @@ public void test05()
 	System.out.println(" i am test 5 method");
 	
 }
+	
+public void newtest()
+{
+	System.out.println("New branch created to practice operations")
+}
 }
